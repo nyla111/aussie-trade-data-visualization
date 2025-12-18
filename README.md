@@ -1,4 +1,4 @@
-# Australian International Trade Analysis (1988–2024)
+# Australian International Trade Analysis (1988-2024)
 ## Data Visualization & Visual Analytics Project
 
 This repository contains a complete analytical project exploring **36 years of Australian international trade data** using **Excel** and **Tableau**. The analysis focuses on identifying structural trade imbalances, visualizing trends, and forecasting future trade patterns - with a deep dive into **Road Vehicles (subcategory 7.8)** under **Machinery & Transport Equipment (Category 7)**.
