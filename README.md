@@ -15,7 +15,7 @@ To analyze over three decades of Australian trade data, uncover key patterns, vi
 2. Which categories dominate imports and exports?
 3. Why is **Category 7 (Machinery & Transport)** so significant?
 4. What role does **Road Vehicles (7.8)** play in Australia’s trade deficit?
-5. What can we forecast for the next 5 years (2025–2029)?
+5. What can we forecast for the next 5 years (2025-2029)?
 
 ---
 
@@ -37,7 +37,7 @@ To analyze over three decades of Australian trade data, uncover key patterns, vi
 - **2020 COVID-19**: Moderate dip, rapid recovery - trade proved resilient.
 - Road Vehicles were hit harder during crises compared to overall trade.
 
-### 4. 5-Year Forecast (2025–2029)
+### 4. 5-Year Forecast (2025-2029)
 - **Imports**: Expected to grow steadily (~4% annually), reaching ~$41B by 2029.
 - **Exports**: Stagnant, with mild recovery and high uncertainty.
 - **AI vs. Tableau Forecast**: AI predicts more conservative growth, accounting for market saturation and economic headwinds.
@@ -67,7 +67,7 @@ To analyze over three decades of Australian trade data, uncover key patterns, vi
 
 ### 4. Forecasting Comparison
 - **Manual forecast** using Tableau’s built-in model.
-- **AI-generated forecast** using historical data (2015–2024) and trend analysis.
+- **AI-generated forecast** using historical data (2015-2024) and trend analysis.
 - Compared outcomes to evaluate methodology strengths and limitations.
 
 ---
@@ -97,7 +97,7 @@ To analyze over three decades of Australian trade data, uncover key patterns, vi
 
 ## Report Contents
 
-The full report (`26130563_A3.pdf`) includes:
+The full report (`report.pdf`) includes:
 
 1. Executive Summary
 2. Introduction & Methodology
