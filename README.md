@@ -22,11 +22,11 @@ To analyze over three decades of Australian trade data, uncover key patterns, vi
 ## Key Insights
 
 ### 1. Structural Trade Imbalance
-- **Imports**: Dominated by **Machinery & Transport (Category 7)**, consistently 30–45% of total imports.
+- **Imports**: Dominated by **Machinery & Transport (Category 7)**, consistently 30-45% of total imports.
 - **Exports**: Dominated by **Mineral Fuels (Category 3)** and **Crude Materials (Category 2)**, together ~68% of exports in 2024.
-- **Result**: Australia exports commodities and imports manufactured goods — a persistent economic structure.
+- **Result**: Australia exports commodities and imports manufactured goods - a persistent economic structure.
 
-### 2. Road Vehicles (7.8) — The Deficit Driver
+### 2. Road Vehicles (7.8) - The Deficit Driver
 - Largest import subcategory within Category 7 (~42% share in 2024).
 - **Trade deficit ratio of 20:1** (imports vs. exports).
 - Grew **1,283% in absolute value** from 1988 to 2024.
@@ -34,7 +34,7 @@ To analyze over three decades of Australian trade data, uncover key patterns, vi
 
 ### 3. Crisis & Recovery Patterns
 - **2009 GFC**: Sharp contraction, strong rebound.
-- **2020 COVID-19**: Moderate dip, rapid recovery — trade proved resilient.
+- **2020 COVID-19**: Moderate dip, rapid recovery - trade proved resilient.
 - Road Vehicles were hit harder during crises compared to overall trade.
 
 ### 4. 5-Year Forecast (2025–2029)
